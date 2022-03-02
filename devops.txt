@@ -1,4 +1,4 @@
 hello everyone
 (GM/GA/GE)	
 this is practicing for git
-
+merging the local repo
